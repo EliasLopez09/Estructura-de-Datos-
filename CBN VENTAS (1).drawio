@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1226" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2316" dy="2360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,9 +28,6 @@
         </mxCell>
         <mxCell id="tbTNVgrCfU-SqD0Iauph-16" value="&lt;font face=&quot;Helvetica&quot;&gt;Usuarios&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="939" y="-302" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tbTNVgrCfU-SqD0Iauph-17" value="&lt;font face=&quot;Helvetica&quot;&gt;Vendedor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="240" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tbTNVgrCfU-SqD0Iauph-29" style="rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=none;startFill=0;" parent="1" source="tbTNVgrCfU-SqD0Iauph-19" target="tbTNVgrCfU-SqD0Iauph-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -79,54 +76,6 @@
         </mxCell>
         <mxCell id="tbTNVgrCfU-SqD0Iauph-27" value="&lt;font face=&quot;Helvetica&quot;&gt;telefono&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="265" y="-190" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tbTNVgrCfU-SqD0Iauph-43" style="rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=none;startFill=0;" parent="1" source="tbTNVgrCfU-SqD0Iauph-36" target="tbTNVgrCfU-SqD0Iauph-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tbTNVgrCfU-SqD0Iauph-36" value="&lt;font face=&quot;Helvetica&quot;&gt;idVendedor&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="60" y="440" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tbTNVgrCfU-SqD0Iauph-44" style="rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=none;startFill=0;" parent="1" source="tbTNVgrCfU-SqD0Iauph-37" target="tbTNVgrCfU-SqD0Iauph-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tbTNVgrCfU-SqD0Iauph-37" value="&lt;font face=&quot;Helvetica&quot;&gt;nombre&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="60" y="490" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tbTNVgrCfU-SqD0Iauph-45" style="rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=none;startFill=0;" parent="1" source="tbTNVgrCfU-SqD0Iauph-38" target="tbTNVgrCfU-SqD0Iauph-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tbTNVgrCfU-SqD0Iauph-38" value="&lt;font face=&quot;Helvetica&quot;&gt;apellido&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="60" y="540" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tbTNVgrCfU-SqD0Iauph-46" style="rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=none;startFill=0;" parent="1" source="tbTNVgrCfU-SqD0Iauph-39" target="tbTNVgrCfU-SqD0Iauph-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tbTNVgrCfU-SqD0Iauph-39" value="&lt;font face=&quot;Helvetica&quot;&gt;email&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="60" y="590" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tbTNVgrCfU-SqD0Iauph-47" style="rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=none;startFill=0;" parent="1" source="tbTNVgrCfU-SqD0Iauph-40" target="tbTNVgrCfU-SqD0Iauph-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tbTNVgrCfU-SqD0Iauph-40" value="&lt;font face=&quot;Helvetica&quot;&gt;fechaNac&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="60" y="640" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tbTNVgrCfU-SqD0Iauph-41" value="&lt;font face=&quot;Helvetica&quot;&gt;contraseña&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="60" y="690" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tbTNVgrCfU-SqD0Iauph-49" style="rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=none;startFill=0;" parent="1" source="tbTNVgrCfU-SqD0Iauph-42" target="tbTNVgrCfU-SqD0Iauph-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tbTNVgrCfU-SqD0Iauph-42" value="&lt;font face=&quot;Helvetica&quot;&gt;codVendedor&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="60" y="740" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tbTNVgrCfU-SqD0Iauph-48" style="rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.068;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=none;startFill=0;" parent="1" source="tbTNVgrCfU-SqD0Iauph-41" target="tbTNVgrCfU-SqD0Iauph-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tbTNVgrCfU-SqD0Iauph-51" style="rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=none;startFill=0;" parent="1" source="tbTNVgrCfU-SqD0Iauph-50" target="tbTNVgrCfU-SqD0Iauph-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tbTNVgrCfU-SqD0Iauph-50" value="&lt;font face=&quot;Helvetica&quot;&gt;sexo&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="60" y="790" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tbTNVgrCfU-SqD0Iauph-58" style="rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=none;startFill=0;" parent="1" source="tbTNVgrCfU-SqD0Iauph-52" target="tbTNVgrCfU-SqD0Iauph-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
